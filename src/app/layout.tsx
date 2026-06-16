@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="zh-CN">
       <head>
-        <meta name="baidu-site-verification" content="codeva-pTbazaAick" />
+        <meta name="baidu-site-verification" content="codeva-la497DsIXh" />
       </head>
       <body className="antialiased min-h-screen bg-ink-50 text-ink-900">
         {children}
