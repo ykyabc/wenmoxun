@@ -1,3 +1,10 @@
 {
-  "cleanUrls": false
+  "cleanUrls": false,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/baidu_verify_codeva-pTbazaAick.html",
+      "destination": "/baidu_verify_codeva-pTbazaAick"
+    }
+  ]
 }
