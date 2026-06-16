@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: "文墨轩 - AI写作工具导航",
   description: "文墨轩，AI时代的笔墨工坊。精选AI写作工具，帮你写好每一篇文字。",
   keywords: "AI写作工具,AI写作,AI文案,AI写论文,AI写小说,AI写作助手",
+  other: {
+    "baidu-site-verification": "codeva-pTbazaAick",
+  },
 };
 
 export default function RootLayout({
