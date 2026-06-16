@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wenmoxun.com/sitemap.xml
+Sitemap: https://wenmoxuan.com/sitemap.xml
